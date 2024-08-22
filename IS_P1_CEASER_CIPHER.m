@@ -1,4 +1,5 @@
 % Encryption
+
 pt = input('Enter plaintext: ', 's');
 key = input('Enter the key value: ');
 
