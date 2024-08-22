@@ -1,3 +1,4 @@
+%rail fence cipher
 clc;
 close all;
 clear all;
